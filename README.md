@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Samuel, @SamCail at Github.
-- ✈ I'm working in a French aircraft engine company, and looking forward to a new challenge.
 - 🖥 I code in Python, sometimes in JavaScript/HTML (for Django) and rarely in C/C++.
 - 🔬 I can do some computer forensics.
 - 🌱 I’m currently learning Rust.
